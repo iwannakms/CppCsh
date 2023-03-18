@@ -1,0 +1,17 @@
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\bin\Debug\net6.0-windows\NuchoHelp1.exe
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\bin\Debug\net6.0-windows\NuchoHelp1.deps.json
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\bin\Debug\net6.0-windows\NuchoHelp1.runtimeconfig.json
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\bin\Debug\net6.0-windows\NuchoHelp1.dll
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\bin\Debug\net6.0-windows\NuchoHelp1.pdb
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.csproj.AssemblyReference.cache
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.Form1.resources
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.csproj.GenerateResource.cache
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.AssemblyInfoInputs.cache
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.AssemblyInfo.cs
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.csproj.CoreCompileInputs.cache
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.dll
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\refint\NuchoHelp1.dll
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.pdb
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\NuchoHelp1.genruntimeconfig.cache
+C:\Users\kubat\Desktop\C#\NuchoHelp1\NuchoHelp1\obj\Debug\net6.0-windows\ref\NuchoHelp1.dll
